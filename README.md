@@ -12,10 +12,10 @@
 **Urban Food Waste & Food Rescue** – designing a low-friction process + information system to match surplus food from donors to recipients under safety/logistics constraints.
 
 ## Navigation
-- Read the submission here: [`milestone-1/MSE302_IP_M1.pdf`](milestone-1/MSE302_IP_M1.pdf)
-- See sources and notes: [`research/sources.md`](research/sources.md), [`research/notes/`](research/notes/)
-- Benchmarking table: [`research/benchmarking/platforms_comparison.xlsx`](research/benchmarking/platforms_comparison.xlsx)
-- GenAI documentation: [`genai/prompts.md`](genai/prompts.md), [`genai/validation.md`](genai/validation.md)
+- Read the submission here: [[`milestone-1/MSE302_IP_M1.pdf`](milestone-1/MSE302_IP_M1.pdf](https://github.com/t8huang/mse302_ip_thomas_huang/blob/main/milestone-1/MSE302_IP_M1_Formatted_v2.pdf))
+- See sources and notes: [)
+- Benchmarking table: [)
+- GenAI documentation: [)
 
 ## Access
 This repo is public. Instructor and TAs have access.
